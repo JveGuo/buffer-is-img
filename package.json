@@ -1,5 +1,5 @@
 {
-  "name": "@jve/buffer-is-img",
+  "name": "@jveguo16/buffer-is-img",
   "version": "0.0.1",
   "description": "Determine if the file is in image format",
   "main": "lib/index.js",

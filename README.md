@@ -1,4 +1,4 @@
-# @jve/isImg
+# buffer-is-img
 
 [![NPM version](https://img.shields.io/npm/v/@jveguo16/buffer-is-img.svg?style=flat)](https://npmjs.org/package/@jveguo16/buffer-is-img)
 [![NPM downloads](http://img.shields.io/npm/dm/@jveguo16/buffer-is-img.svg?style=flat)](https://npmjs.org/package/@jveguo16/buffer-is-img)
@@ -8,7 +8,7 @@
 不是图片类型返回 空
 
 ```javascript
-const { bufferIsImg } = require("@jveguo16/is-img");
+const { bufferIsImg } = require("@jveguo16/buffer-is-img");
 
 const type = bufferIsImg(file);
 ```

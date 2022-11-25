@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../src/index.ts"],
+  "sourcesContent": ["/**\n * @Author: jiawei.guo\n * @Date: 2022-11-25 22:19:21\n * @Description: \u5224\u65AD\u6587\u4EF6\u662F\u5426\u662F\u56FE\u7247\u683C\u5F0F\n */\nimport { bufferIsImg } from \"./utils/isImg\";\n\nexport { bufferIsImg };\n"],
+  "mappings": ";;;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AAAA;AAKA,mBAA4B;",
+  "names": []
+}

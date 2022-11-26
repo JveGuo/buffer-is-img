@@ -5,7 +5,7 @@
 
 根据 `Buffer` 判断当前是否为图片格式 并 返回图片的类型
 
-不是图片类型返回 空
+不是图片类型返回 `""` 空字符串
 
 ```javascript
 const { bufferIsImg } = require("@jveguo16/buffer-is-img");
